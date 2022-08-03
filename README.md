@@ -1,1 +1,1 @@
-# WAS
+# Web announcement System
